@@ -42,7 +42,7 @@ This project does not require any external pip packages. You only need [Python](
 
 ## Usage
 
-The program asks the user to enter an IP address and subnet mask in dotted decimal form, and will output the network address, usables range, and the broadcast address.
+Section is WIP
 
 ## Example
 
@@ -50,4 +50,4 @@ For an example of how to use the program, see the video here (to be posted in th
 
 ## Program-Overview
 
-The [subnetting.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/subnetting.py) file contains the main driver of the program and is what needs to be executed, the [functions_and_constants.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/functions_and_constants.py) file contains the dictionaries used in the file. Finnaly, the file contains all the functions used in the driver.
+The [base-converter.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/base-converter.py) file contains the main driver of the program and is what needs to be executed, the [data.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/data.py) file contains the dictionaries used in the source_functions.py file. Finnaly, the [source_functions.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/source_functions.py) file contains all the functions used in the driver.
