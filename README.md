@@ -24,7 +24,7 @@ This project does not require any external pip packages. You only need [Python](
 
     ```sh
     cd Number-Conversions-Project
-    py subnetting.py
+    py base-converter.py
     ```
 ### Option 2: without git
 1. Download the project as a zip file
@@ -37,7 +37,7 @@ This project does not require any external pip packages. You only need [Python](
 3. go to the command line and run the following:
    ```sh
    cd /path/to/files
-   py subnetting.py
+   py base-converter.py
    ```
 
 ## Usage
@@ -50,4 +50,4 @@ For an example of how to use the program, see the video here (to be posted in th
 
 ## Program-Overview
 
-The [subnetting.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/subnetting.py) file contains the main driver of the program and is what needs to be executed, the [functions_and_constants.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/functions_and_constants.py) file contains the constants used in both programs and the functions used in subnetting.py
+The [subnetting.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/subnetting.py) file contains the main driver of the program and is what needs to be executed, the [functions_and_constants.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/functions_and_constants.py) file contains the dictionaries used in the file. Finnaly, the file contains all the functions used in the driver.
