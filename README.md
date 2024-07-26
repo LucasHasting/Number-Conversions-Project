@@ -42,11 +42,11 @@ This project does not require any external pip packages. You only need [Python](
 
 ## Usage
 
-Section is WIP
+The program first asks the user to enter a number, this number, n, can be in any base. Next, you are asked the base of n, and then you are then asked to choose a base, m, to change the base of n to. The program then displays n in base m to the user.
 
 ## Example
 
-For an example of how to use the program, see the video here (to be posted in the future).
+![EXAMPLE](example.png)
 
 ## Program-Overview
 
