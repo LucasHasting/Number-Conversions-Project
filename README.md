@@ -50,4 +50,6 @@ The program first asks the user to enter a number, this number, n, can be in any
 
 ## Program-Overview
 
-The [base-converter.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/base-converter.py) file contains the main driver of the program and is what needs to be executed, the [data.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/data.py) file contains the dictionaries used in the source_functions.py file. Finnaly, the [source_functions.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/source_functions.py) file contains all the functions used in the driver.
+The [base-converter.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/base-converter.py): contains the main driver of the program and is what needs to be executed.
+[data.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/data.py): contains the dictionaries used in the source_functions.py file. 
+[source_functions.py](https://github.com/LucasHasting/Number-Conversions-Project/blob/main/source_functions.py): contains all the functions used in the driver.
